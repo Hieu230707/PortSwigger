@@ -33,7 +33,7 @@ asia
 
 ### Brute force password
 
-Sau khi đã có username đúng là `asia`, tiếp tục brute force password.
+Sau khi đã có username đúng là `asia`, tiếp tục brute force [password](password.txt).
 
 ![alt text](image-2.png)
 
